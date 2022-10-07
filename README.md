@@ -43,13 +43,9 @@ This project will first ingest a dataset from the stockX API when searching for 
 
 <br>
 
-<br>
-
 #### **Clean your data and perform a pandas merge with your two data sets, then calculate some new values based on the new data set**
 
 For each selected product, the asks, bids, and sales will have an additional column indicating the type. If multiple products are selected, another column for the product label will be added.Outliers will be filtered out of each dataset, and then the datasets will be appended to each other.
-
-<br>
 
 <br>
 
@@ -69,8 +65,6 @@ Once the data for the product has been summarized, the following charts will be 
 <br>
 
 - A scatter plot will be shown to compare the volume of sales to a binned range of sale prices, the user will be able to select the period of time to analyze and, if multiple products are selected, which product to analyze. This metric will help sellers determine their best asking price for a quick sale and purchasers their best bidding price for a likely win.
-
-<br>
 
 <br>
 
