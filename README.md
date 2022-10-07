@@ -1,5 +1,7 @@
 # StockX Price Monitor
 
+This is an example project for Code Louisville students in the Data 2 (Fall 2022) cohort to reference as they work on their projects.
+
 ## Project Brief
 ### Purpose
 This notebook will allow the user to search for items from StockX, select a product or multiple products that they would like to analyze, and provide key metrics about the price and volume of sales that can aid in the decision to execute or wait on a purchase or sale of a product.
