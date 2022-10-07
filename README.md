@@ -79,6 +79,9 @@ The project will include a *pyproject.toml* file and a *requirements.txt* file, 
 <br>
 
 ### Interpretation
+
+<br>
+
 This project will contain two notebooks:
 - *main.py* - where the user can run their own analyses
 - *example.py* - an example notebook where an analysis has already been run.
