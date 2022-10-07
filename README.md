@@ -23,8 +23,6 @@ This is an example project for Code Louisville students in the Data 2 (Fall 2022
 
 This project will allow the user to search for items from StockX, select a product or multiple products that they would like to analyze, and provide key metrics about the price and volume of sales that can aid in the decision to execute or wait on a purchase or sale of a product.
 
-<br>
-
 ---
 
 <br>
@@ -71,8 +69,6 @@ Once the data for the product has been summarized, the following charts will be 
 #### **Utilize a virtual environment and include instructions in your README on how the user should set one up**
 
 The project will include a *pyproject.toml* file and a *requirements.txt* file, allowing the user to install all dependencies using the dependency management tool of their choice. Instructions will be included for using poetry or venv to setup the project.
-
-<br>
 
 ---
 
