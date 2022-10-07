@@ -3,7 +3,18 @@
 This is an example project for Code Louisville students in the Data 2 (Fall 2022) cohort to reference as they work on their projects.
 
 ## Project Brief
+
+> #### **Note to Students**
+>
+> Your project brief will be where you plan out your project. It should contain the following sections:
+> - Purpose: a short description of the problem you are trying to solve or the hypothesis that you want to test.
+> - Features: a description of the features you will be including from the [project requirements](https://docs.google.com/document/d/1xpBog82WwirrFMLcMfVkxUAHu1s4Z_p1oon5CruR6LA/edit?usp=drive_web&authuser=2) and how you are going to implement them.
+> - Interpretation: a description of how you are going to document your findings for the project.
+>
+> This section contains an example project brief.
+
 ### Purpose
+
 This notebook will allow the user to search for items from StockX, select a product or multiple products that they would like to analyze, and provide key metrics about the price and volume of sales that can aid in the decision to execute or wait on a purchase or sale of a product.
 
 ### Features:
